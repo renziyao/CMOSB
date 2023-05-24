@@ -1,0 +1,12 @@
+numpy
+pycryptodome==3.14.1
+phe==1.4.0
+sympy==1.5.1
+gmpy2==2.1.2
+pymoo
+scikit-learn
+IPython
+lhs
+tqdm
+pandas
+libsvm
